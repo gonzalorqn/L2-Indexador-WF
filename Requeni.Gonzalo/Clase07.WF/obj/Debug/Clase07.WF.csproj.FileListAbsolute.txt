@@ -1,0 +1,15 @@
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\bin\Debug\Clase07.WF.exe.config
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\bin\Debug\Clase07.WF.exe
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\bin\Debug\Clase07.WF.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\bin\Debug\Clase06.Entidades.dll
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\bin\Debug\Clase06.Entidades.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.FrmPaleta.resources
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.FrmTempera.resources
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.Properties.Resources.resources
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.csproj.GenerateResource.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.csproj.CopyComplete
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.exe
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase07.WF\obj\Debug\Clase07.WF.FrmPrincipal.resources
